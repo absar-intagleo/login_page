@@ -3,6 +3,6 @@ class HomeController < ApplicationController
   end
 
   def redirect
-  	
+  	sleep(3)
   end
 end
